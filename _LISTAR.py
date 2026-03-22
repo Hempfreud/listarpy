@@ -1,4 +1,4 @@
-from pathlib import Path
+import Path
 import os
 import stat
 import sys
